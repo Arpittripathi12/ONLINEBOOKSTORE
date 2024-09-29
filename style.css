@@ -1,0 +1,41 @@
+table,th,td{
+    border: 1px solid black;
+
+    border-collapse: collapse;
+}
+.logo{
+    text-align: center;
+    padding: 20px;
+    background-color:aqua;
+
+}
+.heading{
+    width: 100%;
+  text-align:center; 
+    color: green;
+    background-color: yellowgreen;
+}
+.home{
+    text-align:center;
+    color: green;
+    font-size: larger;
+    text-decoration: none;
+
+}
+.login{
+    text-align: center;
+    font-size: larger;
+    width: 25%;
+}
+.branch{
+    text-align: center;
+}
+.content{
+    text-align: center;
+    font-size: medium;
+    font-weight: 500;
+    color: darkgreen;
+}
+h2{
+    color: red;
+}
