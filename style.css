@@ -12,12 +12,10 @@ table,th,td{
 .heading{
     width: 100%;
   text-align:center; 
-    color: green;
     background-color: yellowgreen;
 }
 .home{
     text-align:center;
-    color: green;
     font-size: larger;
     text-decoration: none;
 
